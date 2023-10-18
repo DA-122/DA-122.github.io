@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16 12:26:40
+date: 2019-05-16 12:00:00
 layout: post
 title: My new blog
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
