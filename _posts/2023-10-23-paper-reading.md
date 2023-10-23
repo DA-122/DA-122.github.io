@@ -1,7 +1,7 @@
 ---
 date: 2023-10-23 19:00:00
 layout: post
-title: Cost-effective On-device Continual Learning over Memory Hierarchy with Miro
+title: paper reading
 subtitle: MobiCom2023 CL-Related
 description: 论文阅读
 image: https://pic.imgdb.cn/item/6512ace7c458853aefe8ff52.png
