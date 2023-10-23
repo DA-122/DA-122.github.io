@@ -4,11 +4,11 @@ layout: post
 title: Welcome to paper reading
 subtitle: 'Mobicom 2023 paper reading'
 description: test
-image: ../images/2023-10-23-Miro.jpg
+image: https://github.com/DA-122/da-122.github.io/blob/master/images/2023-10-23-Miro.jpg
 optimized_image:
 category: paper reading
 tags:
-  - ÔöÁ¿Ñ§Ï°
+  - continual learning
 author: zyq
 paginate: true
 ---
