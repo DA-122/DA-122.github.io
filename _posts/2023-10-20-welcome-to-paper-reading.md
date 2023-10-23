@@ -4,7 +4,7 @@ layout: post
 title: Welcome to paper reading
 subtitle: 'Mobicom 2023 paper reading'
 description: test
-image: https://ibb.co/9sx1ZVV
+image: https://raw.githubusercontent.com/DA-122/da-122.github.io/master/images/2023-10-23-Miro.jpg
 optimized_image:
 category: paper reading
 tags:
